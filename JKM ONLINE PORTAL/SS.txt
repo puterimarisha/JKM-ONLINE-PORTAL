@@ -1,0 +1,2 @@
+"INSERT INTO joinevent  SET  eventName= "$eventName", eventDate="$eventDate", eventLocation = "$eventLocation", eventDesc= "$eventDesc"
+FROM manageevent where eventID = '$eventID'";

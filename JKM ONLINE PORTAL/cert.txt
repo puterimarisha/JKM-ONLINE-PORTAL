@@ -1,0 +1,8 @@
+<php
+header('content-type:image/jpeg');
+$font="PlayfairDisplay.TTF";
+$image=imagecreaefromjpeg("0001.jpg");
+$color=imaagecolorallocate($image,19,21,22);
+$name
+
+?>
